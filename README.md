@@ -10,4 +10,6 @@ docker run -p 5000:5000 flask-app
 
 To build task2 use:
 
-`docker-compose up --build`
+```
+docker-compose up --build
+```
